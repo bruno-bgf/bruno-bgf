@@ -1,5 +1,5 @@
-- 🎓 &nbsp; Software Engineering student at Pontificia Católica Universidade de Minas Gerais (PUC-Minas)
-- 🌱 &nbsp; Flutter developer focusing on learning more about Flutter and Mobile app development.
+- 🎓 &nbsp; Bachelor degree in Software Engineering at Pontificia Católica Universidade de Minas Gerais (PUC-Minas)
+- 🌱 &nbsp; Mobile Engineer with focus on Flutter
 
 <h3> :rocket: &nbsp; Skills </h3>
 
